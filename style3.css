@@ -1,0 +1,30 @@
+table{
+    height: 98vh;
+        width: 100%;
+}
+td{
+    text-align: center;
+    height: 10%;
+    width: 10%;
+}
+.partecima {
+    background-color: cadetblue;
+   height: 4%;
+   width: 4vh;
+}
+#logo img {
+    height: 100px;
+    width: 100px;
+}
+#logo{
+    text-align: left;
+    height: 100px;
+}
+.cabecalho{
+    text-align: left;
+}
+
+#logo2{
+    height: 150px;
+    margin-bottom: 50px;
+}

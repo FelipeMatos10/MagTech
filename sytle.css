@@ -1,0 +1,26 @@
+table{
+    height: 98vh;
+        width: 100%;
+}
+td{
+    text-align: center;
+    height: 10%;
+    width: 10%;
+}
+.partecima {
+    background-color: cadetblue;
+   height: 4%;
+   width: 4vh;
+   text-align: left;
+}
+#teclado1 img {
+    height: 300px;
+}
+#teclado2 img {
+    height: 360px;
+}
+#logo img {
+    height: 100px;
+    width: 100px;
+    text-align: left;
+}
